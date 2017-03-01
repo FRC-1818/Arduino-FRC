@@ -13,9 +13,9 @@ The servo.cpp file will need to take the functions defined for FRC and translate
 
 I hope that everyone make a effort to work on this, it is a group project start with small steps.
 
-    1. make a git commit with your name to the contributor.md file
+    1. Make a git commit with your name to the contributor.md file
     
-    2. make changes to servo.cpp start adding code that defines functions if you need to add comments that explain what you think needs to be include that you don't know how to do
+    2. Make changes to servo.cpp start adding code that defines functions if you need to add comments that explain what you think needs to be include that you don't know how to do
     
     
     
